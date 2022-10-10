@@ -25,5 +25,4 @@ func main() {
 	num2 = 20
 	fmt.Println(num2)
 	fmt.Println(num + num2)
-
 }
