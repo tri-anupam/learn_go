@@ -10,6 +10,7 @@ func main() {
 	anupam.GetStatus()
 	anupam.NewMail()
 	// fmt.Println(anupam)
+
 }
 
 type User struct {
